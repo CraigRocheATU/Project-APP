@@ -1,0 +1,26 @@
+﻿  LinkedList.c
+C:\Users\craig\OneDrive - Atlantic TU\Year2\Advanced Procedural Programming\ADP Project\LinkedList.c(24,28): warning C4477: 'fscanf' : format string '%[^.]' requires an argument of type 'char *', but variadic argument 10 has type 'int (*)[30]'
+C:\Users\craig\OneDrive - Atlantic TU\Year2\Advanced Procedural Programming\ADP Project\LinkedList.c(33,11): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 10 has type 'int *'
+C:\Users\craig\OneDrive - Atlantic TU\Year2\Advanced Procedural Programming\ADP Project\LinkedList.c(48,28): warning C4133: 'function': incompatible types - from 'int [30]' to 'char *'
+C:\Users\craig\OneDrive - Atlantic TU\Year2\Advanced Procedural Programming\ADP Project\LinkedList.c(48,48): warning C4133: 'function': incompatible types - from 'int [30]' to 'const char *'
+C:\Users\craig\OneDrive - Atlantic TU\Year2\Advanced Procedural Programming\ADP Project\LinkedList.c(72,7): warning C4013: 'search' undefined; assuming extern returning int
+C:\Users\craig\OneDrive - Atlantic TU\Year2\Advanced Procedural Programming\ADP Project\LinkedList.c(138,18): warning C4477: 'fprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 10 has type 'int *'
+C:\Users\craig\OneDrive - Atlantic TU\Year2\Advanced Procedural Programming\ADP Project\LinkedList.c(147,27): warning C4028: formal parameter 1 different from declaration
+C:\Users\craig\OneDrive - Atlantic TU\Year2\Advanced Procedural Programming\ADP Project\LinkedList.c(195,10): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'int *'
+C:\Users\craig\OneDrive - Atlantic TU\Year2\Advanced Procedural Programming\ADP Project\LinkedList.c(299,9): warning C4477: 'scanf' : format string '%[^\n]' requires an argument of type 'char *', but variadic argument 1 has type 'int *'
+C:\Users\craig\OneDrive - Atlantic TU\Year2\Advanced Procedural Programming\ADP Project\LinkedList.c(303,30): warning C4133: 'function': incompatible types - from 'int [30]' to 'const char *'
+C:\Users\craig\OneDrive - Atlantic TU\Year2\Advanced Procedural Programming\ADP Project\LinkedList.c(304,27): warning C4133: 'function': incompatible types - from 'int [30]' to 'const char *'
+C:\Users\craig\OneDrive - Atlantic TU\Year2\Advanced Procedural Programming\ADP Project\LinkedList.c(305,27): warning C4133: 'function': incompatible types - from 'int [30]' to 'const char *'
+C:\Users\craig\OneDrive - Atlantic TU\Year2\Advanced Procedural Programming\ADP Project\LinkedList.c(306,27): warning C4133: 'function': incompatible types - from 'int [30]' to 'const char *'
+C:\Users\craig\OneDrive - Atlantic TU\Year2\Advanced Procedural Programming\ADP Project\LinkedList.c(370,10): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'int *'
+C:\Users\craig\OneDrive - Atlantic TU\Year2\Advanced Procedural Programming\ADP Project\LinkedList.c(354,7): warning C4101: 'searchName': unreferenced local variable
+C:\Users\craig\OneDrive - Atlantic TU\Year2\Advanced Procedural Programming\ADP Project\LinkedList.c(436,46): warning C4133: 'function': incompatible types - from 'int [30]' to 'const char *'
+C:\Users\craig\OneDrive - Atlantic TU\Year2\Advanced Procedural Programming\ADP Project\LinkedList.c(441,51): warning C4133: 'function': incompatible types - from 'int [30]' to 'const char *'
+C:\Users\craig\OneDrive - Atlantic TU\Year2\Advanced Procedural Programming\ADP Project\LinkedList.c(446,51): warning C4133: 'function': incompatible types - from 'int [30]' to 'const char *'
+C:\Users\craig\OneDrive - Atlantic TU\Year2\Advanced Procedural Programming\ADP Project\LinkedList.c(451,51): warning C4133: 'function': incompatible types - from 'int [30]' to 'const char *'
+C:\Users\craig\OneDrive - Atlantic TU\Year2\Advanced Procedural Programming\ADP Project\LinkedList.c(521,18): warning C4477: 'fprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 10 has type 'int *'
+  Source.c
+C:\Users\craig\OneDrive - Atlantic TU\Year2\Advanced Procedural Programming\ADP Project\Source.c(20,9): warning C4013: 'validateLogin' undefined; assuming extern returning int
+C:\Users\craig\OneDrive - Atlantic TU\Year2\Advanced Procedural Programming\ADP Project\Source.c(78,22): warning C4013: 'length' undefined; assuming extern returning int
+  Generating Code...
+  ADP Project.vcxproj -> C:\Users\craig\OneDrive - Atlantic TU\Year2\Advanced Procedural Programming\ADP Project\x64\Debug\ADP Project.exe

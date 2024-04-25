@@ -1,0 +1,17 @@
+﻿  LinkedList.c
+C:\Users\craig\OneDrive - Atlantic TU\Year2\Advanced Procedural Programming\ADP Project\LinkedList.c(28,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\craig\OneDrive - Atlantic TU\Year2\Advanced Procedural Programming\ADP Project\LinkedList.c(11,8): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\craig\OneDrive - Atlantic TU\Year2\Advanced Procedural Programming\ADP Project\LinkedList.c(21,16): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Source.c
+C:\Users\craig\OneDrive - Atlantic TU\Year2\Advanced Procedural Programming\ADP Project\Source.c(19,9): warning C4101: 'numInputs': unreferenced local variable
+C:\Users\craig\OneDrive - Atlantic TU\Year2\Advanced Procedural Programming\ADP Project\Source.c(17,9): warning C4101: 'value': unreferenced local variable
+C:\Users\craig\OneDrive - Atlantic TU\Year2\Advanced Procedural Programming\ADP Project\Source.c(16,11): warning C4101: 'inp': unreferenced local variable
+C:\Users\craig\OneDrive - Atlantic TU\Year2\Advanced Procedural Programming\ADP Project\Source.c(11,9): warning C4101: 'choice': unreferenced local variable
+C:\Users\craig\OneDrive - Atlantic TU\Year2\Advanced Procedural Programming\ADP Project\Source.c(18,10): warning C4101: 'name': unreferenced local variable
+C:\Users\craig\OneDrive - Atlantic TU\Year2\Advanced Procedural Programming\ADP Project\Source.c(15,9): warning C4101: 'result': unreferenced local variable
+C:\Users\craig\OneDrive - Atlantic TU\Year2\Advanced Procedural Programming\ADP Project\Source.c(14,9): warning C4101: 'found': unreferenced local variable
+C:\Users\craig\OneDrive - Atlantic TU\Year2\Advanced Procedural Programming\ADP Project\Source.c(10,12): warning C4101: 'newNode': unreferenced local variable
+C:\Users\craig\OneDrive - Atlantic TU\Year2\Advanced Procedural Programming\ADP Project\Source.c(9,12): warning C4101: 'prev_temp': unreferenced local variable
+C:\Users\craig\OneDrive - Atlantic TU\Year2\Advanced Procedural Programming\ADP Project\Source.c(13,9): warning C4101: 'searchNum': unreferenced local variable
+C:\Users\craig\OneDrive - Atlantic TU\Year2\Advanced Procedural Programming\ADP Project\Source.c(12,9): warning C4101: 'count': unreferenced local variable
+C:\Users\craig\OneDrive - Atlantic TU\Year2\Advanced Procedural Programming\ADP Project\Source.c(8,12): warning C4101: 'temp': unreferenced local variable

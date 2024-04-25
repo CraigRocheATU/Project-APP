@@ -1,0 +1,53 @@
+﻿  LinkedList.c
+C:\Users\craig\OneDrive - Atlantic TU\Year2\Advanced Procedural Programming\ADP Project\LinkedList.c(24,28): warning C4477: 'fscanf' : format string '%[^.]' requires an argument of type 'char *', but variadic argument 10 has type 'int (*)[30]'
+C:\Users\craig\OneDrive - Atlantic TU\Year2\Advanced Procedural Programming\ADP Project\LinkedList.c(33,11): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 10 has type 'int *'
+C:\Users\craig\OneDrive - Atlantic TU\Year2\Advanced Procedural Programming\ADP Project\LinkedList.c(48,28): warning C4133: 'function': incompatible types - from 'int [30]' to 'char *'
+C:\Users\craig\OneDrive - Atlantic TU\Year2\Advanced Procedural Programming\ADP Project\LinkedList.c(48,48): warning C4133: 'function': incompatible types - from 'int [30]' to 'const char *'
+C:\Users\craig\OneDrive - Atlantic TU\Year2\Advanced Procedural Programming\ADP Project\LinkedList.c(72,7): warning C4013: 'search' undefined; assuming extern returning int
+C:\Users\craig\OneDrive - Atlantic TU\Year2\Advanced Procedural Programming\ADP Project\LinkedList.c(138,18): warning C4477: 'fprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 10 has type 'int *'
+C:\Users\craig\OneDrive - Atlantic TU\Year2\Advanced Procedural Programming\ADP Project\LinkedList.c(148,27): warning C4028: formal parameter 1 different from declaration
+C:\Users\craig\OneDrive - Atlantic TU\Year2\Advanced Procedural Programming\ADP Project\LinkedList.c(197,10): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'int *'
+C:\Users\craig\OneDrive - Atlantic TU\Year2\Advanced Procedural Programming\ADP Project\LinkedList.c(301,9): warning C4477: 'scanf' : format string '%[^\n]' requires an argument of type 'char *', but variadic argument 1 has type 'int *'
+C:\Users\craig\OneDrive - Atlantic TU\Year2\Advanced Procedural Programming\ADP Project\LinkedList.c(305,30): warning C4133: 'function': incompatible types - from 'int [30]' to 'const char *'
+C:\Users\craig\OneDrive - Atlantic TU\Year2\Advanced Procedural Programming\ADP Project\LinkedList.c(306,27): warning C4133: 'function': incompatible types - from 'int [30]' to 'const char *'
+C:\Users\craig\OneDrive - Atlantic TU\Year2\Advanced Procedural Programming\ADP Project\LinkedList.c(307,27): warning C4133: 'function': incompatible types - from 'int [30]' to 'const char *'
+C:\Users\craig\OneDrive - Atlantic TU\Year2\Advanced Procedural Programming\ADP Project\LinkedList.c(308,27): warning C4133: 'function': incompatible types - from 'int [30]' to 'const char *'
+C:\Users\craig\OneDrive - Atlantic TU\Year2\Advanced Procedural Programming\ADP Project\LinkedList.c(374,11): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'int *'
+C:\Users\craig\OneDrive - Atlantic TU\Year2\Advanced Procedural Programming\ADP Project\LinkedList.c(440,46): warning C4133: 'function': incompatible types - from 'int [30]' to 'const char *'
+C:\Users\craig\OneDrive - Atlantic TU\Year2\Advanced Procedural Programming\ADP Project\LinkedList.c(445,51): warning C4133: 'function': incompatible types - from 'int [30]' to 'const char *'
+C:\Users\craig\OneDrive - Atlantic TU\Year2\Advanced Procedural Programming\ADP Project\LinkedList.c(450,51): warning C4133: 'function': incompatible types - from 'int [30]' to 'const char *'
+C:\Users\craig\OneDrive - Atlantic TU\Year2\Advanced Procedural Programming\ADP Project\LinkedList.c(455,51): warning C4133: 'function': incompatible types - from 'int [30]' to 'const char *'
+C:\Users\craig\OneDrive - Atlantic TU\Year2\Advanced Procedural Programming\ADP Project\LinkedList.c(525,18): warning C4477: 'fprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 10 has type 'int *'
+C:\Users\craig\OneDrive - Atlantic TU\Year2\Advanced Procedural Programming\ADP Project\LinkedList.c(530,69): warning C4474: 'fprintf' : too many arguments passed for format string
+  C:\Users\craig\OneDrive - Atlantic TU\Year2\Advanced Procedural Programming\ADP Project\LinkedList.c(530,69):
+  placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  
+C:\Users\craig\OneDrive - Atlantic TU\Year2\Advanced Procedural Programming\ADP Project\LinkedList.c(533,88): warning C4474: 'fprintf' : too many arguments passed for format string
+  C:\Users\craig\OneDrive - Atlantic TU\Year2\Advanced Procedural Programming\ADP Project\LinkedList.c(533,88):
+  placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  
+C:\Users\craig\OneDrive - Atlantic TU\Year2\Advanced Procedural Programming\ADP Project\LinkedList.c(536,88): warning C4474: 'fprintf' : too many arguments passed for format string
+  C:\Users\craig\OneDrive - Atlantic TU\Year2\Advanced Procedural Programming\ADP Project\LinkedList.c(536,88):
+  placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  
+C:\Users\craig\OneDrive - Atlantic TU\Year2\Advanced Procedural Programming\ADP Project\LinkedList.c(539,88): warning C4474: 'fprintf' : too many arguments passed for format string
+  C:\Users\craig\OneDrive - Atlantic TU\Year2\Advanced Procedural Programming\ADP Project\LinkedList.c(539,88):
+  placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  
+C:\Users\craig\OneDrive - Atlantic TU\Year2\Advanced Procedural Programming\ADP Project\LinkedList.c(542,78): warning C4474: 'fprintf' : too many arguments passed for format string
+  C:\Users\craig\OneDrive - Atlantic TU\Year2\Advanced Procedural Programming\ADP Project\LinkedList.c(542,78):
+  placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  
+C:\Users\craig\OneDrive - Atlantic TU\Year2\Advanced Procedural Programming\ADP Project\LinkedList.c(545,88): warning C4474: 'fprintf' : too many arguments passed for format string
+  C:\Users\craig\OneDrive - Atlantic TU\Year2\Advanced Procedural Programming\ADP Project\LinkedList.c(545,88):
+  placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  
+C:\Users\craig\OneDrive - Atlantic TU\Year2\Advanced Procedural Programming\ADP Project\LinkedList.c(548,88): warning C4474: 'fprintf' : too many arguments passed for format string
+  C:\Users\craig\OneDrive - Atlantic TU\Year2\Advanced Procedural Programming\ADP Project\LinkedList.c(548,88):
+  placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  
+C:\Users\craig\OneDrive - Atlantic TU\Year2\Advanced Procedural Programming\ADP Project\LinkedList.c(551,88): warning C4474: 'fprintf' : too many arguments passed for format string
+  C:\Users\craig\OneDrive - Atlantic TU\Year2\Advanced Procedural Programming\ADP Project\LinkedList.c(551,88):
+  placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  
+  ADP Project.vcxproj -> C:\Users\craig\OneDrive - Atlantic TU\Year2\Advanced Procedural Programming\ADP Project\x64\Debug\APP Project.exe

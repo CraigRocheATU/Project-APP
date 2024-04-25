@@ -1,0 +1,31 @@
+1 Harry Carter 26 180.00 70.00 Cats carter@gmail.com Centres. More than five times per match. More than 20.
+2 Bo Buckingham 40 170.00 60.00 Bears bb@gmail.com Centres. Less than three times per match. Less than 10.
+3 Larry Kane 26 165.00 70.00 Cats larrykane@gmail.com Hooker. More than five times per match. Less than 20.
+4 Yuri Stroganov 31 201.00 90.00 Bears yurithebear@gmail.com Half Back. Never. More than 20.
+5 Craig Roche 19 183.00 60.00 Cats craigroche101@gmail.com Prop. Less than five times per match. Less than 20.
+6 Holly Carter 23 165.00 55.00 Cats hollycarter@gmail.com Wingers / Full Back. Never. Less than 10.
+7 Jared Foggle 56 16.00 80.00 Bears jared@gmail.com Hooker. More than five times per match. None.
+9 Erik Lacey 45 172.00 75.00 Cats erikl@gmail.com Centres. Less than three times per match. Less than 10.
+10 Garry Mcoy 35 184.00 70.00 Bears garrymcoy@gmail.com Half Back. Never. None.
+11 Betty White 100 160.00 60.00 Bears bettywhite100@gmail.com Prop. Never. More than 20.
+12 Hank Forger 37 191.00 80.00 Cats hankforger@gmail.com Hooker. Less than three times per match. More than 20.
+13 Lucy Lou 31 170.00 65.00 Bears ll@gmail.com Wingers / Full Back. Never. Less than 20.
+14 Grant Jules 29 188.00 71.00 Cats grantjules@gmail.com Second Row. More than five times per match. Less than 20.
+15 Karen Mcoy 37 175.00 70.00 Cats karenmcoy@gmail.com Hooker. Less than three times per match. None.
+70 Richard Greene 31 182.00 70.00 Bears richardgreen@gmail.com Hooker. Less than three times per match. Less than 10.
+Percentage of players who miss no tackles
+33.33
+Percentage of players who miss less than 3 tackles per match
+33.33
+Percentage of players who miss less than 5 tackles per match
+6.67
+Percentage of players who miss more than 5 tackles per match
+26.67
+Percentage of players who make no metres in a game
+20.00
+Percentage of players who make less than 10 metres in a game
+26.67
+Percentage of players who make less than 20 metres in a game
+26.67
+Percentage of players who make more than 20 metres in a game
+26.67
